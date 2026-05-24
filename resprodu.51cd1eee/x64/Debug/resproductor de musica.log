@@ -1,0 +1,10 @@
+﻿  resproductor de musica.cpp
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(46,60): warning C4003: no hay suficientes argumentos para la invocación de macro "max" de tipo función
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(53,56): warning C4003: no hay suficientes argumentos para la invocación de macro "max" de tipo función
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(46,60): error C2589: '(': símbolo (token) no válido en el lado derecho de '::'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(46,60): error C2059: error de sintaxis: ')'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(46,71): error C2059: error de sintaxis: ')'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(53,56): error C2589: '(': símbolo (token) no válido en el lado derecho de '::'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(53,56): error C2059: error de sintaxis: ')'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(53,67): error C2059: error de sintaxis: ')'
+C:\Users\markd\OneDrive\Documents\uni\3 semestre\progra 1\resproductor de musica\resproductor de musica.cpp(167,17): error C1075: "{": no se encontró ningún token coincidente
